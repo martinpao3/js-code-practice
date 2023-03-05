@@ -1,4 +1,17 @@
-alert('Hello world');
-
-favoriteFood = 'Pasta';
-document.write(favoriteFood);
+let pokemonlist = [
+    { name: "Rayquaza", height: 7, types: ['Dragon', 'Flying']},
+    { name: "Charizard", height: 1.7, types: ['Fire', 'Flying']},
+    { name: "Blaziken", height: 1.9, types: ['Fire', 'Fighting']},
+    { name: "Venusaur", height: 2, types: ['Grass', 'Poison']},
+    { name: "Articuno", height: 1.7, types: ['Ice', 'Flying']},
+    { name: "Zapdos", height: 1.6, types: ['Electric', 'Flying']},
+    { name: "Moltres", height: 2, types: ['Fire', 'Flying']},
+    { name: "Tyranitar", height: 2, types: ['Dark', 'Rock']},
+    { name: "Skarmory", height: 1.7, types: ['Steel', 'Flying']},
+    { name: "Starmie", height: 1.1, types: ['Psychic', 'Water']},
+    { name: "Poliwrath", height: 1.3, types: ['Water', 'Fighting']},
+    { name: "Lugia", height: 5.2, types: ['Psychic', 'Flying']},
+    { name: "Ho-oh", height: 3.8, types: ['Psychic', 'Flying']},
+    { name: "Flygon", height: 2, types: ['Psychic', 'Flying']},
+    { name: "Aggron", height: 2.1, types: ['Steel', 'Rock']},
+];
